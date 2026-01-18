@@ -2,3 +2,6 @@ pandas
 numpy
 torch
 scikit-learn
+matplotlib
+seaborn
+typing_extensions; python_version < "3.10"
